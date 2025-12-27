@@ -46,12 +46,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.markdown(
-    """
-    <a href="https://pakproperties20250521145834-fze9fuebhga8f0h7.canadacentral-01.azurewebsites.net/" target="_blank" >Back To Home Page</a>
-    """,
-    unsafe_allow_html=True,
-)
 
 # --- Title ---
 st.markdown('<div class="step-title">🏠 Pakistan House Price Predictor</div>', unsafe_allow_html=True)
